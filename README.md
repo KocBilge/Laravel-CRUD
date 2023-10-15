@@ -1,8 +1,8 @@
-## About Laravel CRUD in 50 minutes for Beginners  from Scratch
+## Laravel CRUD
 
-This project is created to show you how to implement CRUD operations in Laravel with ease. Laravel will be used to create, read, update, and delete data from a database. 
+You say that this project was created to show you how to implement create, read, update and delete data from a database using Laravel. Here we can enrich your text with emojis:
 
-If you want learn more about this project. You can visit [Laravel CRUD in 50 minutes for Beginners  from Scratch](https://youtu.be/_LA9QsgJ0bw) 
+This project was created to show you how to easily implement create (📝 create), read (📖 read), update (🔄 update) and delete (🗑️ delete) data from a database using Laravel. 🚀
 
 
 
